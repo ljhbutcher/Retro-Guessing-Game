@@ -43,6 +43,8 @@ document.querySelector('.check').addEventListener('click', function () {
       const audio = new Audio('incorrect.mp3');
       audio.play();
 
+      document.querySelector('body').style.backgroundColor = 'red';
+
       document.querySelector('.score').textContent = score;
     } else {
       displayMessage('💥 You lost the game!');
