@@ -1,4 +1,4 @@
-A retro style guessing game using JavaScript and sounds.
+A retro style guessing game using JavaScript and sounds. Play here: https://ljhbutcher.github.io/Retro-Guessing-Game/
 
 ![image](https://github.com/user-attachments/assets/b24eef64-51dd-4e9f-a3a5-daa0629f2f78)
 
